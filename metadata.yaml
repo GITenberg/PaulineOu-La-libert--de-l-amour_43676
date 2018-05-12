@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39546
     wikipedia: https://fr.wikipedia.org/wiki/Louis_Dumur
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43676#PaulineOu-La-libert--de-l-amour
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2013-09-09'
 gutenberg_type: Text
