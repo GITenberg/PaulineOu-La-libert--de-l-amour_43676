@@ -1,0 +1,28 @@
+_repo: PaulineOu-La-libert--de-l-amour_43676
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43676-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dumur, Louis
+    birthdate: 1860
+    deathdate: 1933
+    gutenberg_agent_id: '39546'
+    url: http://www.gutenberg.org/2009/agents/39546
+    wikipedia: https://fr.wikipedia.org/wiki/Louis_Dumur
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2013-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43676'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: Pauline, ou la liberté de l'amour
+url: http://www.gutenberg.org/ebooks/43676
